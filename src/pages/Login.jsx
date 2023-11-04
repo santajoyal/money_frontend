@@ -153,10 +153,10 @@ export default function Login() {
             Don't have an account ? <Link to="/register">Create One.</Link>
           </span>
           <p style={{ color: "#f25252", fontWeight: "Bold" }}>
-            Username : Test
+            Username : User
           </p>
           <p style={{ color: "#f25252", fontWeight: "Bold" }}>
-            Password : 12345678
+            Password : User1234
           </p>
         </form>
       </FormContainer>
