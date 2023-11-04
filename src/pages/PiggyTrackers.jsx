@@ -95,7 +95,7 @@ function PiggyTrackers() {
 
   const getTransaction = async () => {
     const { data } = await axios.get(
-      `${getTransactionRoute}/63f6532478d019f05c93beb0`
+      `${getTransactionRoute}/`
     );
 
     setTransactions(data);
