@@ -1,5 +1,5 @@
 export const piggy = {
-  img: "https://lively-tarsier-82ff10.netlify.app/images",
+  img: "https://super-dodol-2ed71f.netlify.app/images",
 };
 
 export const color = {

@@ -1,4 +1,4 @@
-export const host = "https://expense-tracker-server-4k3z.onrender.com";
+export const host = "https://moneytransfer-backend-uebb.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
